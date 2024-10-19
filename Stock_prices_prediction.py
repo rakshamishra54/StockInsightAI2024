@@ -70,7 +70,7 @@ x, y = np.array(x), np.array(y)
 
 # %%
 from keras.layers import Dense, Dropout, LSTM
-from keras.models import Sequential
+from keras.models import Sequential # type: ignore
 
 # %%
 model = Sequential()

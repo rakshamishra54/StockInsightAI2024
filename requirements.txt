@@ -1,6 +1,16 @@
+# pandas
+# yfinance
+# keras
+# streamlit
+# matplotlib
+# scikit-learn
+
 pandas
 yfinance
 keras
+tensorflow
 streamlit
 matplotlib
 scikit-learn
+plotly
+
