@@ -1,13 +1,3 @@
-<<<<<<< HEAD
-# pandas
-# yfinance
-# keras
-# streamlit
-# matplotlib
-# scikit-learn
-=======
-
->>>>>>> b335c079b479b8cbbeff514867828fd820f7ecf5
 
 pandas
 yfinance
